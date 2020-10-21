@@ -1,0 +1,414 @@
+# depslib dependency file v1.0
+1602961620 source:c:\programacion1\parcialmascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+	"Trabajo.h"
+	"Servicios.h"
+	"ValidacionesMascotas.h"
+	"Menu.h"
+
+1602949828 source:c:\programacion1\parcialmascotas\tipo.c
+	"Tipo.h"
+	<stdio.h>
+	<string.h>
+
+1602899472 c:\programacion1\parcialmascotas\tipo.h
+
+1602949933 source:c:\programacion1\parcialmascotas\color.c
+	"Color.h"
+	<stdio.h>
+	<string.h>
+
+1602900160 c:\programacion1\parcialmascotas\color.h
+
+1602957883 source:c:\programacion1\parcialmascotas\fecha.c
+	"Fecha.h"
+	<stdio.h>
+	<time.h>
+
+1602909038 c:\programacion1\parcialmascotas\fecha.h
+
+1602955044 source:c:\programacion1\parcialmascotas\servicios.c
+	"Servicios.h"
+	<string.h>
+	<stdio.h>
+
+1602899990 c:\programacion1\parcialmascotas\servicios.h
+
+1602958275 source:c:\programacion1\parcialmascotas\mascota.c
+	"Mascota.h"
+	<stdio.h>
+	<string.h>
+	"DataStore.h"
+	"Tipo.h"
+	"Color.h"
+	"ValidacionesMascotas.h"
+	"Mascota.h"
+	"Menu.h"
+
+1602958233 c:\programacion1\parcialmascotas\mascota.h
+	"Servicios.h"
+	"Color.h"
+	"Tipo.h"
+
+1602954605 c:\programacion1\parcialmascotas\datastore.h
+	"Servicios.h"
+	"Mascota.h"
+
+1602958831 source:c:\programacion1\parcialmascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"Trabajo.h"
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+	"Fecha.h"
+	"Servicios.h"
+
+1602961754 c:\programacion1\parcialmascotas\trabajo.h
+	"Fecha.h"
+	"Color.h"
+	"Tipo.h"
+	"Fecha.h"
+	"Servicios.h"
+	"Mascota.h"
+
+1602902185 c:\programacion1\parcialmascotas\menu.h
+
+1602903773 source:c:\programacion1\parcialmascotas\validacionesmascotas.c
+	"ValidacionesMascotas.h"
+	"Color.h"
+	"Tipo.h"
+	"Servicios.h"
+	"Mascota.h"
+
+1602903415 c:\programacion1\parcialmascotas\validacionesmascotas.h
+	"Servicios.h"
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+
+1602909203 source:c:\programacion1\parcialmascotas\menu.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Menu.h"
+	"Tipo.h"
+	"Color.h"
+
+1602949933 source:c:\users\imetta\downloads\parcialmascotas\parcialmascotas\color.c
+	"Color.h"
+	<stdio.h>
+	<string.h>
+
+1603214105 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\color.h
+
+1603214408 source:c:\users\imetta\downloads\parcialmascotas\parcialmascotas\fecha.c
+	"Fecha.h"
+	<stdio.h>
+	<time.h>
+
+1603214449 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\fecha.h
+
+1603228996 source:c:\users\imetta\downloads\parcialmascotas\parcialmascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+	"Trabajo.h"
+	"Servicios.h"
+	"ValidacionesMascotas.h"
+	"Menu.h"
+
+1603217712 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\mascota.h
+	"Servicios.h"
+	"Color.h"
+	"Tipo.h"
+
+1603215441 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\servicios.h
+
+1603215541 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\tipo.h
+
+1603219165 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\trabajo.h
+	"Fecha.h"
+	"Color.h"
+	"Tipo.h"
+	"Fecha.h"
+	"Servicios.h"
+	"Mascota.h"
+
+1603216102 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\validacionesmascotas.h
+	"Servicios.h"
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+
+1602902185 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\menu.h
+
+1603232252 source:c:\users\imetta\downloads\parcialmascotas\parcialmascotas\mascota.c
+	"Mascota.h"
+	<stdio.h>
+	<string.h>
+	"DataStore.h"
+	"Tipo.h"
+	"Color.h"
+	"ValidacionesMascotas.h"
+	"Mascota.h"
+	"Menu.h"
+
+1603218611 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\datastore.h
+	"Servicios.h"
+	"Mascota.h"
+
+1602909203 source:c:\users\imetta\downloads\parcialmascotas\parcialmascotas\menu.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Menu.h"
+	"Tipo.h"
+	"Color.h"
+
+1602955044 source:c:\users\imetta\downloads\parcialmascotas\parcialmascotas\servicios.c
+	"Servicios.h"
+	<string.h>
+	<stdio.h>
+
+1602949828 source:c:\users\imetta\downloads\parcialmascotas\parcialmascotas\tipo.c
+	"Tipo.h"
+	<stdio.h>
+	<string.h>
+
+1603230987 source:c:\users\imetta\downloads\parcialmascotas\parcialmascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"Trabajo.h"
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+	"Fecha.h"
+	"Servicios.h"
+	"DataStoreTrabajo.h"
+
+1603229009 source:c:\users\imetta\downloads\parcialmascotas\parcialmascotas\validacionesmascotas.c
+	"ValidacionesMascotas.h"
+	"Color.h"
+	"Tipo.h"
+	"Servicios.h"
+	"Mascota.h"
+
+1603218723 c:\users\imetta\downloads\parcialmascotas\parcialmascotas\datastoretrabajo.h
+
+1602949933 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\color.c
+	"Color.h"
+	<stdio.h>
+	<string.h>
+
+1603214105 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\color.h
+
+1603214408 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\fecha.c
+	"Fecha.h"
+	<stdio.h>
+	<time.h>
+
+1603214449 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\fecha.h
+
+1603228996 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+	"Trabajo.h"
+	"Servicios.h"
+	"ValidacionesMascotas.h"
+	"Menu.h"
+
+1603217712 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\mascota.h
+	"Servicios.h"
+	"Color.h"
+	"Tipo.h"
+
+1603215441 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\servicios.h
+
+1603215541 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\tipo.h
+
+1603219165 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\trabajo.h
+	"Fecha.h"
+	"Color.h"
+	"Tipo.h"
+	"Fecha.h"
+	"Servicios.h"
+	"Mascota.h"
+
+1603216102 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\validacionesmascotas.h
+	"Servicios.h"
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+
+1602902185 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\menu.h
+
+1603232252 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\mascota.c
+	"Mascota.h"
+	<stdio.h>
+	<string.h>
+	"DataStore.h"
+	"Tipo.h"
+	"Color.h"
+	"ValidacionesMascotas.h"
+	"Mascota.h"
+	"Menu.h"
+
+1603218611 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\datastore.h
+	"Servicios.h"
+	"Mascota.h"
+
+1602909203 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\menu.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Menu.h"
+	"Tipo.h"
+	"Color.h"
+
+1602955044 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\servicios.c
+	"Servicios.h"
+	<string.h>
+	<stdio.h>
+
+1602949828 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\tipo.c
+	"Tipo.h"
+	<stdio.h>
+	<string.h>
+
+1603232473 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"Trabajo.h"
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+	"Fecha.h"
+	"Servicios.h"
+	"DataStoreTrabajo.h"
+
+1603218723 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\datastoretrabajo.h
+
+1603229009 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotas\validacionesmascotas.c
+	"ValidacionesMascotas.h"
+	"Color.h"
+	"Tipo.h"
+	"Servicios.h"
+	"Mascota.h"
+
+1602949933 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\color.c
+	"Color.h"
+	<stdio.h>
+	<string.h>
+
+1603214105 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\color.h
+
+1603214408 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\fecha.c
+	"Fecha.h"
+	<stdio.h>
+	<time.h>
+
+1603214449 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\fecha.h
+
+1603228996 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+	"Trabajo.h"
+	"Servicios.h"
+	"ValidacionesMascotas.h"
+	"Menu.h"
+
+1603217712 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\mascota.h
+	"Servicios.h"
+	"Color.h"
+	"Tipo.h"
+
+1603215441 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\servicios.h
+
+1603215541 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\tipo.h
+
+1603219165 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\trabajo.h
+	"Fecha.h"
+	"Color.h"
+	"Tipo.h"
+	"Fecha.h"
+	"Servicios.h"
+	"Mascota.h"
+
+1603216102 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\validacionesmascotas.h
+	"Servicios.h"
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+
+1602902185 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\menu.h
+
+1603232252 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\mascota.c
+	"Mascota.h"
+	<stdio.h>
+	<string.h>
+	"DataStore.h"
+	"Tipo.h"
+	"Color.h"
+	"ValidacionesMascotas.h"
+	"Mascota.h"
+	"Menu.h"
+
+1603218611 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\datastore.h
+	"Servicios.h"
+	"Mascota.h"
+
+1602909203 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\menu.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Menu.h"
+	"Tipo.h"
+	"Color.h"
+
+1602955044 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\servicios.c
+	"Servicios.h"
+	<string.h>
+	<stdio.h>
+
+1602949828 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\tipo.c
+	"Tipo.h"
+	<stdio.h>
+	<string.h>
+
+1603232473 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"Trabajo.h"
+	"Mascota.h"
+	"Color.h"
+	"Tipo.h"
+	"Fecha.h"
+	"Servicios.h"
+	"DataStoreTrabajo.h"
+
+1603218723 c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\datastoretrabajo.h
+
+1603229009 source:c:\users\usuario\desktop\lllalalala\1º parcial\parcialmascotasparteuno\parcialmascotasparte1\validacionesmascotas.c
+	"ValidacionesMascotas.h"
+	"Color.h"
+	"Tipo.h"
+	"Servicios.h"
+	"Mascota.h"
+
